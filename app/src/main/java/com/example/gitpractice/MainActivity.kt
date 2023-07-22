@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
     fun test() {
 
         val test = "asfdjlsaf"
+        val testtt = "뭐야이거"
 
     }
 }
