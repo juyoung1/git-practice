@@ -8,7 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-    fun tests() {
+    fun testsss() {
 
         val test = "asfdjlsaf"
         val testtt = "뭐야이거"
